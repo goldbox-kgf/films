@@ -1,2 +1,4 @@
 arm,2024,jithin lal,tovino
 pushpa,2024,director,allu
+avesham,2024,director,fafa
+lucky,2024,director,dq
